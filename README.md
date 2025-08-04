@@ -38,3 +38,8 @@ Simulating user input through Serial Monitor
 Foundation for smart home automation systems
 Status
 
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bc77c567-88ff-449a-a00c-035354e1cb22" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/66dcfd16-58ce-4ce9-9445-1d70111dae5b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bd50fa9e-1110-45d4-a101-fb6da68dd6c3" />
